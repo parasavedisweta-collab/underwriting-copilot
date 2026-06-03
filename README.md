@@ -113,8 +113,8 @@ underwriting-copilot/
 ### 1. Clone and install
 
 ```bash
-git clone https://github.com/parasavedisweta-collab/meeting-scribe.git
-cd meeting-scribe
+git clone https://github.com/parasavedisweta-collab/underwriting-copilot.git
+cd underwriting-copilot
 pip install -r requirements.txt
 ```
 
